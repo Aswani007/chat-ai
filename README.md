@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # AI Chat Assistant - Flutter Application
-
+Web Link - https://chat-4c7a3.web.app/
 A modern, production-ready Flutter application that simulates an AI chat assistant with dynamic response types and polling behavior. The app supports both Android and Web platforms from a single codebase.
 
 ## Features
