@@ -1,0 +1,26 @@
+# Firebase ignore file
+.git
+.gitignore
+.firebaserc
+firebase.json
+.firebase/
+node_modules/
+*.log
+*.md
+android/
+ios/
+linux/
+macos/
+windows/
+test/
+lib/
+pubspec.yaml
+pubspec.lock
+analysis_options.yaml
+.dart_tool/
+build/android/
+build/ios/
+build/linux/
+build/macos/
+build/windows/
+

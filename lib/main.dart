@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:ai_chat_assistant/views/chat_screen.dart';
+
+void main() {
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return GetMaterialApp(
+      title: 'AI Chat Assistant',
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
+        useMaterial3: true,
+      ),
+      home: const ChatScreen(),
+    );
+  }
+}
+
