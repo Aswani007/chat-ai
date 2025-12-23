@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Chat Assistant - Flutter Application
 
 A modern, production-ready Flutter application that simulates an AI chat assistant with dynamic response types and polling behavior. The app supports both Android and Web platforms from a single codebase.
@@ -223,3 +224,7 @@ This is a demonstration project. For production use, consider:
 
 This project is provided as-is for demonstration purposes.
 
+=======
+# chat-ai
+Chat assistant
+>>>>>>> b9b7950a47d1fbbf705f71ecd2344a60531a4fc4
